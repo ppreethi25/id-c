@@ -269,12 +269,12 @@ a.dropdown-item {
 
   .content {
     content: "";
-    background-color: #000;
+/*     background-color: #000; */
     width: 10rem;
     height: 12rem;
     position: absolute;
     top: 20rem;
-    border: 2px solid #fff;
+/*     border: 2px solid #fff; */
 }
 #about h4 {
   text-align: center;
